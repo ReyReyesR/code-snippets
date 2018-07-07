@@ -9,7 +9,7 @@ function isPrime(num) {
 }
 ```
 
-**Fibonacci Sequence
+**Fibonacci Sequence**
 ```
 function fibonacci(num){
   var a = 1, b = 0, temp;
